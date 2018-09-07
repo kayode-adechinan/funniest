@@ -1,0 +1,8 @@
+setup.py
+azuzbegaz/__init__.py
+azuzbegaz/main.py
+azuzbegaz.egg-info/PKG-INFO
+azuzbegaz.egg-info/SOURCES.txt
+azuzbegaz.egg-info/dependency_links.txt
+azuzbegaz.egg-info/not-zip-safe
+azuzbegaz.egg-info/top_level.txt

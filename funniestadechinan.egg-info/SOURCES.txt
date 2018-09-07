@@ -1,5 +1,6 @@
 setup.py
 funniest/__init__.py
+funniest/text.py
 funniestadechinan.egg-info/PKG-INFO
 funniestadechinan.egg-info/SOURCES.txt
 funniestadechinan.egg-info/dependency_links.txt
